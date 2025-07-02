@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Sobre mim
 
-<!--
-**manoel-nto/manoel-nto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou o Manoel e estou em transição para a área de **Análise de Dados**, desenvolvendo projetos práticos com foco em transformar dados em informações relevantes para a tomada de decisão.
 
-Here are some ideas to get you started:
+Atualmente, utilizo ferramentas como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 **Python** (Pandas, Matplotlib, etc.)
+* 🗄️ **SQL**
+* 📊 **Power BI**
+* 📈 **Excel**
+
+Tenho interesse em temas como **limpeza de dados**, **análise exploratória**, **visualização de informações** e **monitoramento de KPIs**.
+
+Aqui você encontra alguns dos projetos que desenvolvi para praticar e aprofundar esses conhecimentos. Sinta-se à vontade para explorar!
